@@ -27,7 +27,7 @@ main, footer {
   padding: 20px 10px;
 }
 nav a.active {
-  background-color: #2EC8FF;
+  background-color: #0A13E6;
   color: #fff;
 }
 a[itemprop="url"] {
